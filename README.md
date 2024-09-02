@@ -73,5 +73,4 @@ NFT deposited on Polygon Mumbai
 
 ## Author
 
-David Dada 
-[@DadaAyo5](https://twitter.com/DadaAyo5)
+Favour Sabo
