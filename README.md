@@ -59,7 +59,7 @@ The response log will look like:
 Successfully minted: <number> MetaToken NFTs to <WALLET-ADDRESS>
 ```
 ### Approve transfer and deposit the NFTs to Polygon bridge
-Pass in the Polygon Mumbai bridged address of your contract to `BRIDGE-ADDRESS` in
+Pass in the Polygon amoy bridged address of your contract to `BRIDGE-ADDRESS` in
 `.env`, then run the `approveTransfer.js` script with hardhat:
 ```shell
 npx hardhat run --network goerli scripts/nft/approveTransfer.js
@@ -67,7 +67,7 @@ npx hardhat run --network goerli scripts/nft/approveTransfer.js
 The response should look like this:
 ```
 NFT approval confirmed
-NFT deposited on Polygon Mumbai
+NFT deposited on Polygon amoy
 ```
 
 
